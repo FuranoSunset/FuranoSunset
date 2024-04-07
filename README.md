@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FuranoSunset
+- 👀 I’m interested in learning new languages and making some cool projects!
+- 🌱 I’m currently learning Python and Angular.
