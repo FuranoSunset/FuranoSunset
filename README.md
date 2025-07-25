@@ -9,15 +9,9 @@
 
 - 📫 Si quieres contactarme no dudes en hacerlo: **fran.garcia.mariscal@gmail.com**
 
+- :iphone: Puedes conectar conmigo en Linkedin: **https://www.linkedin.com/in/franciscogarciamariscal/**
+
 - ⚡ Mis hobbies: **La música, el deporte, las plantas y los videojuegos!**
-
-<h3 align="center">Conecta conmigo:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/franciscogarciamariscal/))
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.fran.garcia.mariscal@gmail.com)
-  
-</div>
 
 <h3 align="center">Lenguajes:</h3>
 <p align="center">
