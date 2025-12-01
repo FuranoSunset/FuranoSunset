@@ -29,11 +29,6 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,vscode,wordpress" width="150" height="150"/> 
 </p>
-<p align= "center">
-    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=FuranoSunset&theme=react&show_icons=true&include_all_commits=true" />
-    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuranoSunset&theme=react&layout=compact" />
-</p>
-
 ------
 
 [FuranoSunset](https://github.com/FuranoSunset)
