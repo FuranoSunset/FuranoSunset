@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Fran! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Soy un Desarrollador Web Junior y estoy buscando mi primer empleo!</h3>
 
-- 🔭 Actualmente me encuentro desarrollando diferentes proyectos centrándome en el Front-End
+- 🔭 Actualmente me encuentro desarrollando un proyecto Full Stack con Laravel y Vue.js
 
-- 🌱 Estoy ampliando mis conocimientos aprendiendo Flask
+- 🌱 Amplío mis conocimientos constantemente y refuerzo los que ya tengo
 
 - 👯 Me encantaría colaborar en otros proyectos!
 
